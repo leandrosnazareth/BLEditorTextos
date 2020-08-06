@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracoes>
+	<config id="01">
+		<autoCompletar>true</autoCompletar>
+		<rolarDigitar>false</rolarDigitar>
+		<lerCaracter>true</lerCaracter>
+		<tamanho>12</tamanho>
+		<fonte>Arial Black</fonte>
+		<cor>true</cor>
+	</config>
+</configuracoes>
